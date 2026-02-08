@@ -55,8 +55,8 @@ python main.py
 - Tests should be added/updated in the project's `tests/` directory and follow `TESTING.md`.
 
 ## License
-No license is included in the repo. Tell me your preferred license and I can add it.
+No license is included in the repo for now. 
 
 ## Contact
-- Repo owner: FrancisL0001
-- Course: CSCI1970KF, Spring 2026
+- Repo owner: [FrancisL0001](https://github.com/FrancisL0001)
+- Course: [CSCI1970KF, Spring 2026](https://github.com/brown-agentic-studio-spr26)
