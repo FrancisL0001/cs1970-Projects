@@ -33,6 +33,11 @@ pip install -r airportweather-FrancisL0001/requirements.txt
 pytest -q
 ```
 
+- Deactivating the virtual environment once you are done:
+```bash
+deactivate # should work on most macOS and Bash systems
+```
+
 ## How to run a sub-project (examples)
 - Airport weather analysis:
 ```bash
@@ -55,4 +60,3 @@ No license is included in the repo. Tell me your preferred license and I can add
 ## Contact
 - Repo owner: FrancisL0001
 - Course: CSCI1970KF, Spring 2026
-# cs1970-Projects
