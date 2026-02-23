@@ -4,3 +4,6 @@
 [submodule "airportweather-FrancisL0001"]
 	path = airportweather-FrancisL0001
 	url = git@github.com:brown-agentic-studio-spr26/airportweather-FrancisL0001.git
+[submodule "requirementschecker-FrancisL0001"]
+	path = requirementschecker-FrancisL0001
+	url = git@github.com:brown-agentic-studio-spr26/requirementschecker-FrancisL0001.git
