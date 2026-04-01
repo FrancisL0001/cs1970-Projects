@@ -10,3 +10,6 @@
 [submodule "musictour-FrancisL0001"]
 	path = musictour-FrancisL0001
 	url = https://github.com/brown-agentic-studio-spr26/musictour-FrancisL0001
+[submodule "metaphors-FrancisL0001"]
+	path = metaphors-FrancisL0001
+	url = https://github.com/brown-agentic-studio-spr26/metaphors-FrancisL0001
