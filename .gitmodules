@@ -16,3 +16,6 @@
 [submodule "chat-client-FrancisL0001-1"]
 	path = chat-client-FrancisL0001-1
 	url = git@github.com:brown-agentic-studio-spr26/chat-client-FrancisL0001-1.git
+[submodule "semester-end-reflection-tasks-FrancisL0001"]
+	path = semester-end-reflection-tasks-FrancisL0001
+	url = git@github.com:brown-agentic-studio-spr26/semester-end-reflection-tasks-FrancisL0001.git

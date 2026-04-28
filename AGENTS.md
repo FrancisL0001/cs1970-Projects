@@ -23,6 +23,12 @@ ___Git Rules (Strict)___
 	•	Double-check staged files before committing.  
 	•	Write clear, descriptive commit messages explaining why the change exists.  
 
+___Other Rules___
+	•	Do not use or reference any code, data, or resources not explicitly provided in this repository or approved by the project owner.  
+	•	Do not make assumptions about the environment, dependencies, or available resources beyond what is explicitly stated.  
+	•	Always follow the principle of least surprise: do not introduce unexpected behavior, side effects, or dependencies.
+	• 	Never read anything from .env files or similar without explicit instructions to do so.
+
 ⸻
 
 ## 2. Project Structure & Architecture Rules
@@ -126,7 +132,7 @@ __Rules__:
 __Scope__: Building, extending, or refactoring projects.
 
 __Default stack__:  
-	•	Python (preferred unless stated otherwise)
+	•	Python (preferred unless stated otherwise), React (for frontend)
 
 __Responsibilities__:  
 	•	Propose a high-level design before major implementation.  
